@@ -1,0 +1,678 @@
+callbackWrapper({
+		    "scoreboard": [
+		    
+        {
+            "day":"Tuesday  , December  19, 2017",
+            "games":[
+		    
+		    			{
+		     "id":"2663732",
+		     "lastUpdated":"1513729980",
+		     "updatedTimestamp":"2017-12-19 19:33:01",
+		     
+		     "conference":"all-conf conference-usa mid-american",
+			 "gameState":"live",
+		     "startDate":"2017-12-19",
+			 "startDateDisplay":"Dec. 19",
+		     "startTime":"7:00 PM ET",
+			 "startTimeEpoch":"1513728000",
+		     "currentPeriod":"1st ",
+		     "finalMessage":"1st",
+		     "gameStatus":"In-Progress",
+		     "periodStatus":"In-Progress",
+		     "downToGo":"",
+		     "timeclock":"1:08",		     
+		     "network_logo":"",
+		     "location":"FAU Stadium, Boca Raton, FL",
+		     "contestName":"",
+		     "url":"/game/football/fbs/2017/12/19/akron-fla-atlantic",
+		     "highlightsUrl":"", 
+		     "liveAudioUrl":"",
+		     "gameCenterUrl":"/game/football/fbs/2017/12/19/akron-fla-atlantic",
+		     "champInfo": {  },
+		     
+	         "scoreBreakdown":[
+	   			"1",
+	   			"2",
+	   			"3",
+	   			"4"],
+		     "links":[	
+						    
+		     ],	 
+		     "home": {
+		         "teamRank":"0",
+			     
+		         "iconURL":"/sites/default/files/images/logos/schools/f/fla-atlantic.70.png",
+		         "name":"<a href='/schools/fla-atlantic'>Florida Atlantic</a>",
+                 "nameRaw":"Florida Atlantic",
+                 "nameSeo":"fla-atlantic",
+		         "shortname":"FAU",
+		         "color":"#002D62",
+		         "social":{"twitter":{"keywords":["#faufootball"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"FAUOwlAthletics","conference":"The_Sun_Belt"}}},
+		         "description":"10-3",
+		         "currentScore":"7",
+		         "scoreBreakdown":[
+	   			"7",
+	   			"",
+	   			"",
+	   			""],
+
+		         
+		                	         
+		         "winner":"false"
+		         
+		     },
+		     "away": {
+		         "teamRank":"0",
+			     
+		         "iconURL":"/sites/default/files/images/logos/schools/a/akron.70.png",
+		         "name":"<a href='/schools/akron'>Akron</a>",
+                 "nameRaw":"Akron",
+                 "nameSeo":"akron",
+		         "shortname":"AKRON",
+		      	 "color":"#00285e",		         
+		         "social":{"twitter":{"keywords":["#gozips"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"GoZipsUpdates","conference":"MACSports"}}},
+		         "description":"7-6",
+		         "currentScore":"0",
+		         "scoreBreakdown":[
+	   			"0",
+	   			"",
+	   			"",
+	   			""],
+
+		         
+		          
+		         "winner":"false"
+		         
+		     },
+			     "tabs": "/sites/default/files/data//game/football/fbs/2017/12/19/akron-fla-atlantic/tabs.json",
+	    		 "tabsArray":  [[
+	    
+			{"type":"boxscore", "title":"Box Score", "file":"/sites/default/files/data/game/football/fbs/2017/12/19/akron-fla-atlantic/boxscore.json"},
+			{"type":"scoring-summary", "title":"Scoring", "file":"/sites/default/files/data/game/football/fbs/2017/12/19/akron-fla-atlantic/scoringSummary.json"},
+			{"type":"team-stats", "title":"Team Stats", "file":"/sites/default/files/data/game/football/fbs/2017/12/19/akron-fla-atlantic/teamStats.json"},
+			{"type":"play-by-play", "title":"Play-By-Play", "file":"/sites/default/files/data/game/football/fbs/2017/12/19/akron-fla-atlantic/pbp.json"}
+		]],
+	    		 "status": {
+					"possession": "Florida Atlantic",
+					"down": "",
+					"distance": "",
+					"yardline": "FAU35"	    		 
+	    		 },
+    			 "alerts": {"timestamp":"2017-12-19T19:33:01.892-05:00",
+		
+		"upset":
+			0
+		,
+		"redzone": 
+			0}
+		}
+		    		
+            ]
+        }
+	,
+        {
+            "day":"Wednesday, December  20, 2017",
+            "games":[
+		    
+		    			{
+			     "id":"2663726",
+				 "lastUpdated":"1513729020",
+				 "updatedTimestamp":"2017-12-19 19:17:29",
+                 
+			     "conference":"all-conf american-athletic conference-usa",
+			     "gameState":"pre",
+                 "startDate":"2017-12-20",
+                 "startDateDisplay":"Dec. 20",
+			     "startTime":"8:00 PM ET",
+				 "startTimeEpoch":"1513818000",
+			     "currentPeriod":"",
+			     
+			     "timeclock":"",
+			     "network_logo":"",
+			     "location":"Toyota Stadium, Frisco, TX",
+			     "contestName":"",
+			     "url":"/game/football/fbs/2017/12/20/louisiana-tech-smu",
+			     "highlightsUrl":"",
+			     "gameCenterUrl":"/game/football/fbs/2017/12/20/louisiana-tech-smu",
+			     "champInfo": {  },
+			     
+		         "scoreBreakdown":[],
+				 "links": [
+					
+				  ],
+			     "home": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/s/smu.70.png",
+			         "name":"<a href='/schools/smu'>SMU</a>",
+                     "nameRaw":"SMU",
+                     "nameSeo":"smu",
+			         "shortname":"SMU",
+			         "color":"#e51932",
+			         "social":{"twitter":{"keywords":["#SMU"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"SMUMustangs","sport":"SMU_Football","conference":"ConferenceUSA1"}}},
+			         "description":"7-5",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "away": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/l/louisiana-tech.70.png",
+			         "name":"<a href='/schools/louisiana-tech'>Louisiana Tech</a>",
+                     "nameRaw":"Louisiana Tech",
+                     "nameSeo":"louisiana-tech",
+			         "shortname":"LATECH",
+			         "color":"#002596",
+			         "social":{"twitter":{"keywords":["#latech"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"LATechSports","sport":"LATechFB","conference":"WACSports"}}},
+			         "description":"6-6",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "tabs": "/sites/default/files/data//game/football/fbs/2017/12/20/louisiana-tech-smu/tabs.json",
+	    		 "tabsArray": [[
+	    
+		]],
+	    		 "status": {},
+    			 "alerts": {}
+			}
+		    		
+            ]
+        }
+	,
+        {
+            "day":"Thursday , December  21, 2017",
+            "games":[
+		    
+		    			{
+			     "id":"2663736",
+				 "lastUpdated":"1513729020",
+				 "updatedTimestamp":"2017-12-19 19:17:29",
+                 
+			     "conference":"all-conf conference-usa american-athletic",
+			     "gameState":"pre",
+                 "startDate":"2017-12-21",
+                 "startDateDisplay":"Dec. 21",
+			     "startTime":"8:00 PM ET",
+				 "startTimeEpoch":"1513904400",
+			     "currentPeriod":"",
+			     
+			     "timeclock":"",
+			     "network_logo":"",
+			     "location":"Tropicana Field, St. Petersburg, FL",
+			     "contestName":"",
+			     "url":"/game/football/fbs/2017/12/21/temple-fiu",
+			     "highlightsUrl":"",
+			     "gameCenterUrl":"/game/football/fbs/2017/12/21/temple-fiu",
+			     "champInfo": {  },
+			     
+		         "scoreBreakdown":[],
+				 "links": [
+					
+				  ],
+			     "home": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/f/fiu.70.png",
+			         "name":"<a href='/schools/fiu'>FIU</a>",
+                     "nameRaw":"FIU",
+                     "nameSeo":"fiu",
+			         "shortname":"FIU",
+			         "color":"#c79d1f",
+			         "social":{"twitter":{"keywords":["#FIUFootball"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"FIUAthletics","sport":"FIUFootball","conference":"The_Sun_Belt"}}},
+			         "description":"8-4",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "away": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/t/temple.70.png",
+			         "name":"<a href='/schools/temple'>Temple</a>",
+                     "nameRaw":"Temple",
+                     "nameSeo":"temple",
+			         "shortname":"TEMPLE",
+			         "color":"#9e1b32",
+			         "social":{"twitter":{"keywords":["#templefootball"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"Owlsports_com","conference":"BigEastFB"}}},
+			         "description":"6-6",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "tabs": "/sites/default/files/data//game/football/fbs/2017/12/21/temple-fiu/tabs.json",
+	    		 "tabsArray": [[
+	    
+		]],
+	    		 "status": {},
+    			 "alerts": {}
+			}
+		    		
+            ]
+        }
+	,
+        {
+            "day":"Friday   , December  22, 2017",
+            "games":[
+		    
+		    			{
+			     "id":"2663682",
+				 "lastUpdated":"1513729020",
+				 "updatedTimestamp":"2017-12-19 19:17:29",
+                 
+			     "conference":"all-conf mid-american conference-usa",
+			     "gameState":"pre",
+                 "startDate":"2017-12-22",
+                 "startDateDisplay":"Dec. 22",
+			     "startTime":"12:30 PM ET",
+				 "startTimeEpoch":"1513963800",
+			     "currentPeriod":"",
+			     
+			     "timeclock":"",
+			     "network_logo":"",
+			     "location":"Thomas Robinson Stadium, Nassau, ",
+			     "contestName":"",
+			     "url":"/game/football/fbs/2017/12/22/uab-ohio",
+			     "highlightsUrl":"",
+			     "gameCenterUrl":"/game/football/fbs/2017/12/22/uab-ohio",
+			     "champInfo": {  },
+			     
+		         "scoreBreakdown":[],
+				 "links": [
+					
+				  ],
+			     "home": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/o/ohio.70.png",
+			         "name":"<a href='/schools/ohio'>Ohio</a>",
+                     "nameRaw":"Ohio",
+                     "nameSeo":"ohio",
+			         "shortname":"OHIO",
+			         "color":"#336633",
+			         "social":{"twitter":{"keywords":["#ohiobobcats"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"OhioBobcats","conference":"MACSports"}}},
+			         "description":"8-4",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "away": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/u/uab.70.png",
+			         "name":"<a href='/schools/uab'>UAB</a>",
+                     "nameRaw":"UAB",
+                     "nameSeo":"uab",
+			         "shortname":"UAB",
+			         "color":"#007c60",
+			         "social":{"twitter":{"keywords":["#goblazers"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"UABathletics","conference":"ConferenceUSA1"}}},
+			         "description":"8-4",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "tabs": "/sites/default/files/data//game/football/fbs/2017/12/22/uab-ohio/tabs.json",
+	    		 "tabsArray": [[
+	    
+		]],
+	    		 "status": {},
+    			 "alerts": {}
+			}
+		    		,
+		    			{
+			     "id":"2663719",
+				 "lastUpdated":"1513729020",
+				 "updatedTimestamp":"2017-12-19 19:17:29",
+                 
+			     "conference":"all-conf mountain-west mid-american",
+			     "gameState":"pre",
+                 "startDate":"2017-12-22",
+                 "startDateDisplay":"Dec. 22",
+			     "startTime":"4:00 PM ET",
+				 "startTimeEpoch":"1513976400",
+			     "currentPeriod":"",
+			     
+			     "timeclock":"",
+			     "network_logo":"",
+			     "location":"Albertsons Stadium, Boise, ID",
+			     "contestName":"",
+			     "url":"/game/football/fbs/2017/12/22/central-mich-wyoming",
+			     "highlightsUrl":"",
+			     "gameCenterUrl":"/game/football/fbs/2017/12/22/central-mich-wyoming",
+			     "champInfo": {  },
+			     
+		         "scoreBreakdown":[],
+				 "links": [
+					
+				  ],
+			     "home": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/w/wyoming.70.png",
+			         "name":"<a href='/schools/wyoming'>Wyoming</a>",
+                     "nameRaw":"Wyoming",
+                     "nameSeo":"wyoming",
+			         "shortname":"WYO",
+			         "color":"#f6c028",
+			         "social":{"twitter":{"keywords":["#cowboys"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"wyoathletics","conference":"TheMWC"}}},
+			         "description":"7-5",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "away": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/c/central-mich.70.png",
+			         "name":"<a href='/schools/central-mich'>Cent. Michigan</a>",
+                     "nameRaw":"Cent. Michigan",
+                     "nameSeo":"central-mich",
+			         "shortname":"C MICH",
+			         "color":"#630237",
+			         "social":{"twitter":{"keywords":["#CMUChippewas"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"CMUAthletics","sport":"CMU_Football","conference":"MACSports"}}},
+			         "description":"8-4",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "tabs": "/sites/default/files/data//game/football/fbs/2017/12/22/central-mich-wyoming/tabs.json",
+	    		 "tabsArray": [[
+	    
+		]],
+	    		 "status": {},
+    			 "alerts": {}
+			}
+		    		
+            ]
+        }
+	,
+        {
+            "day":"Saturday , December  23, 2017",
+            "games":[
+		    
+		    			{
+			     "id":"2663720",
+				 "lastUpdated":"1513729020",
+				 "updatedTimestamp":"2017-12-19 19:17:29",
+                 
+			     "conference":"all-conf american-athletic big-12",
+			     "gameState":"pre",
+                 "startDate":"2017-12-23",
+                 "startDateDisplay":"Dec. 23",
+			     "startTime":"12:00 PM ET",
+				 "startTimeEpoch":"1514048400",
+			     "currentPeriod":"",
+			     
+			     "timeclock":"",
+			     "network_logo":"",
+			     "location":"Legion Field, Birmingham, AL",
+			     "contestName":"",
+			     "url":"/game/football/fbs/2017/12/23/texas-tech-south-fla",
+			     "highlightsUrl":"",
+			     "gameCenterUrl":"/game/football/fbs/2017/12/23/texas-tech-south-fla",
+			     "champInfo": {  },
+			     
+		         "scoreBreakdown":[],
+				 "links": [
+					
+				  ],
+			     "home": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/s/south-fla.70.png",
+			         "name":"<a href='/schools/south-fla'>South Florida</a>",
+                     "nameRaw":"South Florida",
+                     "nameSeo":"south-fla",
+			         "shortname":"USF",
+			         "color":"#006747",
+			         "social":{"twitter":{"keywords":["#bulls"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"USFAthletics","sport":"USFFootball","conference":"BigEastFB"}}},
+			         "description":"9-2",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "away": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/t/texas-tech.70.png",
+			         "name":"<a href='/schools/texas-tech'>Texas Tech</a>",
+                     "nameRaw":"Texas Tech",
+                     "nameSeo":"texas-tech",
+			         "shortname":"TXTECH",
+			         "color":"#CC0000",
+			         "social":{"twitter":{"keywords":["#redraiders"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"TechAthletics","conference":"Big12Conference"}}},
+			         "description":"6-6",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "tabs": "/sites/default/files/data//game/football/fbs/2017/12/23/texas-tech-south-fla/tabs.json",
+	    		 "tabsArray": [[
+	    
+		]],
+	    		 "status": {},
+    			 "alerts": {}
+			}
+		    		,
+		    			{
+			     "id":"2663733",
+				 "lastUpdated":"1513729020",
+				 "updatedTimestamp":"2017-12-19 19:17:29",
+                 
+			     "conference":"all-conf fbs-independent mountain-west",
+			     "gameState":"pre",
+                 "startDate":"2017-12-23",
+                 "startDateDisplay":"Dec. 23",
+			     "startTime":"3:30 PM ET",
+				 "startTimeEpoch":"1514061000",
+			     "currentPeriod":"",
+			     
+			     "timeclock":"",
+			     "network_logo":"",
+			     "location":"Amon G. Carter Stadium, Fort Worth, TX",
+			     "contestName":"",
+			     "url":"/game/football/fbs/2017/12/23/san-diego-st-army",
+			     "highlightsUrl":"",
+			     "gameCenterUrl":"/game/football/fbs/2017/12/23/san-diego-st-army",
+			     "champInfo": {  },
+			     
+		         "scoreBreakdown":[],
+				 "links": [
+					
+				  ],
+			     "home": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/a/army.70.png",
+			         "name":"<a href='/schools/army'>Army West Point</a>",
+                     "nameRaw":"Army West Point",
+                     "nameSeo":"army",
+			         "shortname":"ARMY",
+			         "color":"#ccb284",
+			         "social":{"twitter":{"keywords":["#armyfootball"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"ArmyAthletics","sport":"TheArmyTeam"}}},
+			         "description":"9-3",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "away": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/s/san-diego-st.70.png",
+			         "name":"<a href='/schools/san-diego-st'>San Diego State</a>",
+                     "nameRaw":"San Diego State",
+                     "nameSeo":"san-diego-st",
+			         "shortname":"SDSU",
+			         "color":"#A81933",
+			         "social":{"twitter":{"keywords":["#Aztecs"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"GoAztecs","conference":"TheMWC"}}},
+			         "description":"10-2",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "tabs": "/sites/default/files/data//game/football/fbs/2017/12/23/san-diego-st-army/tabs.json",
+	    		 "tabsArray": [[
+	    
+		]],
+	    		 "status": {},
+    			 "alerts": {}
+			}
+		    		,
+		    			{
+			     "id":"2663706",
+				 "lastUpdated":"1513729020",
+				 "updatedTimestamp":"2017-12-19 19:17:29",
+                 
+			     "conference":"all-conf mid-american sun-belt",
+			     "gameState":"pre",
+                 "startDate":"2017-12-23",
+                 "startDateDisplay":"Dec. 23",
+			     "startTime":"7:00 PM ET",
+				 "startTimeEpoch":"1514073600",
+			     "currentPeriod":"",
+			     
+			     "timeclock":"",
+			     "network_logo":"",
+			     "location":"Ladd-Peebles Stadium, Mobile, AL",
+			     "contestName":"",
+			     "url":"/game/football/fbs/2017/12/23/appalachian-st-toledo",
+			     "highlightsUrl":"",
+			     "gameCenterUrl":"/game/football/fbs/2017/12/23/appalachian-st-toledo",
+			     "champInfo": {  },
+			     
+		         "scoreBreakdown":[],
+				 "links": [
+					
+				  ],
+			     "home": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/t/toledo.70.png",
+			         "name":"<a href='/schools/toledo'>Toledo</a>",
+                     "nameRaw":"Toledo",
+                     "nameSeo":"toledo",
+			         "shortname":"TOLEDO",
+			         "color":"#0e2144",
+			         "social":{"twitter":{"keywords":["#gorockets"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"UTRocketsDotCom","conference":"MACSports"}}},
+			         "description":"11-2",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "away": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/a/appalachian-st.70.png",
+			         "name":"<a href='/schools/appalachian-st'>Appalachian St.</a>",
+                     "nameRaw":"Appalachian St.",
+                     "nameSeo":"appalachian-st",
+			         "shortname":"APP ST",
+			         "color":"#d6ac00",
+			         "social":{"twitter":{"keywords":[],"accounts":{"ncaa":"ncaa_fb","athleticDept":"GoASU","conference":"SoConSports"}}},
+			         "description":"8-4",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "tabs": "/sites/default/files/data//game/football/fbs/2017/12/23/appalachian-st-toledo/tabs.json",
+	    		 "tabsArray": [[
+	    
+		]],
+	    		 "status": {},
+    			 "alerts": {}
+			}
+		    		
+            ]
+        }
+	,
+        {
+            "day":"Sunday   , December  24, 2017",
+            "games":[
+		    
+		    			{
+			     "id":"2663721",
+				 "lastUpdated":"1513729020",
+				 "updatedTimestamp":"2017-12-19 19:17:29",
+                 
+			     "conference":"all-conf american-athletic mountain-west",
+			     "gameState":"pre",
+                 "startDate":"2017-12-24",
+                 "startDateDisplay":"Dec. 24",
+			     "startTime":"8:30 PM ET",
+				 "startTimeEpoch":"1514165400",
+			     "currentPeriod":"",
+			     
+			     "timeclock":"",
+			     "network_logo":"",
+			     "location":"Hawaiian Tel Federal Credit Union Field , Honolulu, HI",
+			     "contestName":"",
+			     "url":"/game/football/fbs/2017/12/24/fresno-st-houston",
+			     "highlightsUrl":"",
+			     "gameCenterUrl":"/game/football/fbs/2017/12/24/fresno-st-houston",
+			     "champInfo": {  },
+			     
+		         "scoreBreakdown":[],
+				 "links": [
+					
+				  ],
+			     "home": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/h/houston.70.png",
+			         "name":"<a href='/schools/houston'>Houston</a>",
+                     "nameRaw":"Houston",
+                     "nameSeo":"houston",
+			         "shortname":"HOU",
+			         "color":"#CC0000",
+			         "social":{"twitter":{"keywords":["#gocougs"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"UHCougarSports","sport":"UHCougarFB","conference":"ConferenceUSA1"}}},
+			         "description":"7-4",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "away": {
+                    
+			         "teamRank":"0",
+			         "iconURL":"/sites/default/files/images/logos/schools/f/fresno-st.70.png",
+			         "name":"<a href='/schools/fresno-st'>Fresno State</a>",
+                     "nameRaw":"Fresno State",
+                     "nameSeo":"fresno-st",
+			         "shortname":"FRESNO",
+			         "color":"#005495",
+			         "social":{"twitter":{"keywords":["#fresnostate"],"accounts":{"ncaa":"ncaa_fb","athleticDept":"FSAthletics","conference":"TheMWC"}}},
+			         "description":"9-4",
+			         "currentScore":"",
+			         "scoreBreakdown":[],
+			         
+			         "winner":"false"
+			     },
+			     "tabs": "/sites/default/files/data//game/football/fbs/2017/12/24/fresno-st-houston/tabs.json",
+	    		 "tabsArray": [[
+	    
+		]],
+	    		 "status": {},
+    			 "alerts": {}
+			}
+		    		
+            ]
+        }
+	
+		    ]
+		});
